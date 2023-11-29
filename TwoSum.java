@@ -34,7 +34,6 @@ public class TwoSum {
         int target = 6;
 
         System.out.println(Arrays.toString(twoSum(nums, target)));
-        // сделать чтение данных из файла
     }
 
     public static int[] twoSum(int[] nums, int target) {
